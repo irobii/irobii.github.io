@@ -19,8 +19,8 @@ locale                   : "en-US"
 title                    : "Site Title"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Ka-Kyung Kim"
+description              : "Biospin"
 url                      : https://irobii.github.io
 baseurl                  : " "
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               :
+  username               : kakyungkim
 facebook:
-  username               :
+  username               : irobii
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -137,22 +137,22 @@ footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      # url:
+      url: https://twitter.com/kakyungkim
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      # url:
+      url: https://www.facebook.com/irobii
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: https://github.com/irobii
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
-      # url:
+      url: https://bitbucket.org/irobii/
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      # url:
+      url: https://www.instagram.com/kakyungkim/
 
 
 # Reading Files
